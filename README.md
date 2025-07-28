@@ -1,4 +1,4 @@
-# Assignment Placeholder Page
+py# Assignment Placeholder Page
 
 This repository contains a placeholder page for student assignments that haven't been configured yet.
 
